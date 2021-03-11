@@ -4,7 +4,7 @@ Here is project live server [Club Picker](https://604a33ceb0fd7d0fb3163f2e--rela
 
 ### `About Club Picker`
 
-If you're looking for an amazing football team where every player play with their best so You can pick a team from [Club Picker](https://604a33ceb0fd7d0fb3163f2e--relaxed-lalande-605086.netlify.app/).We are providing you world most famous football team.So without any doubt you can pick your team.When you will visit our site you will be able to see more team so if you want to know more about it so you have to click `Explore` button.
+If you're looking for an amazing football team where every player play with their best so You can pick a team from [Club Picker](https://604a33ceb0fd7d0fb3163f2e--relaxed-lalande-605086.netlify.app/).We are providing you world most famous football team.So without any doubt you can pick your team.When you will visit our site you will be able to see more team so if you want to know more about it so you have to click `Explore` button.When you want to back home page from team details so you can click on the `Home` or navigation bar `Logo`
 
 
 
