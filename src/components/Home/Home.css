@@ -1,0 +1,12 @@
+.homeContainer{
+    background-color: #1a1d25;
+}
+
+.homeCart{
+    width: 80%;
+    padding-top: 50px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

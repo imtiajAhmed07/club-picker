@@ -1,0 +1,24 @@
+.homeSectionContainer{
+    text-align: center;
+    width: 250px;
+    padding: 20px 10px;
+    margin: 25px 10px;
+    background-color: white;
+    border-radius: 5px;
+
+}
+
+.homeSectionContainer p{
+    font-size: 13px;
+}
+
+.homeSectionContainer img{
+    height: 140px;
+    margin-bottom: 10px;
+}
+
+.homeSectionContainer button{
+    border: none;
+    outline: none;
+    font-weight: 500;
+}
