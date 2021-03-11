@@ -7,7 +7,6 @@ import
     BrowserRouter as Router,
     Switch,
     Route,
-    Link
   } from "react-router-dom";
 import TeamDetails from './components/TeamDetails/TeamDetails';
 import NotFound from './components/NotFound/NotFound';
